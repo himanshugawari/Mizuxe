@@ -26,6 +26,14 @@ body {
   margin: auto;
   border-bottom: 1px #dddddd solid; }
 
+#authors img {
+  margin-top: -50px; }
+#authors .card:hover {
+  background: #3292a6;
+  color: #ffffff; }
+#authors .fab {
+  color: #ffffff; }
+
 @media (max-width: 790px) {
   #showcase {
     min-height: 550px; }
